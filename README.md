@@ -1,6 +1,6 @@
 # IFRN - Programação de Computadores
 
-## Nesse repositório, se encontra a resolução das listas de programação de Computadores.
+## Resolução em Python dos exercícios da disciplina "Programação de Computadores" - Codeforces.
 
 ## Conteúdo
 1. [Enunciados](#enunciados)
