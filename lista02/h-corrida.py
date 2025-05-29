@@ -23,7 +23,7 @@ em metros da pista circular, determinar o ponto de término de seu treinamento.
 
 Input
 
-A entrada consiste em apenas uma linha contendo dois inteiros C (1 ≤ C ≤ 108) e 
+A entrada consiste em apenas uma linha contendo dois inteiros C (1 ≤ C ≤ 10^8) e 
 N (1 ≤ N ≤ 100) que indicam, respectivamente, o número de metros que Leonardo pretende 
 correr e o comprimento da pista.
 
