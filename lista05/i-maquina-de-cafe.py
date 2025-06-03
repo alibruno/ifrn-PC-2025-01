@@ -29,10 +29,14 @@ serem gastos com o melhor posicionamento possível da máquina.
 A1 = int(input())
 A2 = int(input())
 A3 = int(input())
-    
-if (A1 > A2 and A1 > A3):
-    print(A2 * 2 + A3 * 4)
-elif (A3 > A1 and A3 > A2):
-    print(A1 * 4 + A2 * 2)
+
+PosicionamentoA1 = A2 * 2 + A3 * 4
+PosicionamentoA2 = A1 * 2 + A3 * 2
+PosicionamentoA3 = A1 * 4 + A2 * 2
+
+if (PosicionamentoA1 <= PosicionamentoA2 and PosicionamentoA1 <= PosicionamentoA3):
+    print(PosicionamentoA1)
+elif (PosicionamentoA2 <= PosicionamentoA1 and PosicionamentoA2 <= PosicionamentoA3):
+    print(PosicionamentoA2)
 else:
-    print(A1 * 2 + A3 * 2)
+    print(PosicionamentoA3)
