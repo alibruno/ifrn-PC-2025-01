@@ -1,7 +1,7 @@
 '''
 Escreva um programa que leia a distância entre duas cidades A e B, em kilômetros, 
-a velocidade, em km/h, do carro e mostre qual o tempo da viagem entre A e B, 
-no formato HH:MM. Os segundos devem ser desprezados.
+a velocidade, em km/h, do carro e mostre qual o tempo da viagem entre A e B, no 
+formato HH:MM. Os segundos devem ser desprezados.
 
 Input
 
