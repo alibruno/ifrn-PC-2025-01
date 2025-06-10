@@ -1,7 +1,7 @@
 '''
-Escreva um programa para calcular a média de uma disciplina 
-que possui duas notas, com pesos 2 e 3 respectivamente, considerando 
-as notas valores inteiros entre 0 (zero) e 100 (cem), inclusive.
+Escreva um programa para calcular a média de uma disciplina que possui duas notas, 
+com pesos 2 e 3 respectivamente, considerando as notas valores inteiros entre 0 (zero) 
+e 100 (cem), inclusive.
 
 Input
 

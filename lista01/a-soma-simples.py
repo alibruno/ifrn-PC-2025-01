@@ -1,5 +1,6 @@
 '''
-Escreva um programa que leia dois números inteiros a e b e mostre a soma dos mesmos.
+Escreva um programa que leia dois números inteiros a e b e mostre a 
+soma dos mesmos.
 
 Input
 

@@ -1,7 +1,7 @@
 '''
-Você foi contactado para escrever um programa que calcule a média ponderada 
-entre dois números inteiros v1 e v2. A média ponderada mp é calculada 
-através da fórmula a seguir:
+Você foi contactado para escrever um programa que calcule a média ponderada entre 
+dois números inteiros v1 e v2. A média ponderada mp é calculada através da fórmula 
+a seguir:
 mp = (v1*p1 + v2*p2)/(p1+p2)
 onde p1 é o peso de v1 e p2 é o peso de v2.
 

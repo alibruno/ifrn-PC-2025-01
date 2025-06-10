@@ -1,6 +1,6 @@
 '''
-Escreva um programa que leia dois valores L1 e L2, 
-que representam os lados de um retângulo e mostre o perímetro do mesmo.
+Escreva um programa que leia dois valores L1 e L2, que representam os 
+lados de um retângulo e mostre o perímetro do mesmo.
 
 Input
 

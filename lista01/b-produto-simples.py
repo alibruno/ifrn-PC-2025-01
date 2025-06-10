@@ -1,6 +1,6 @@
 '''
-Escreva um programa que leia 2 (dois) números inteiros e 
-mostre o produto dos mesmos.
+Escreva um programa que leia 2 (dois) números inteiros e mostre o 
+produto dos mesmos.
 
 Input
 
